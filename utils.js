@@ -11,6 +11,7 @@ async function getZkSyncProvider (zksync, networkName) {
 
 async function getEthereumProvider (ethers, networkName) {
   let ethersProvider
+
   
   try {
    
